@@ -1,0 +1,6 @@
+{"day": 0, "id": "d0", "issued": 2, "known_at": 0, "open_hours": 8, "opening": 5, "part": "p1", "receipts": 0, "sold_out_early": false, "unserved_complete": false, "unserved_known": 0}
+{"day": 1, "id": "d1", "issued": 3, "known_at": 1, "open_hours": 8, "opening": 3, "part": "p1", "receipts": 0, "sold_out_early": true, "unserved_complete": false, "unserved_known": 1}
+{"day": 2, "id": "d2", "issued": 0, "known_at": 2, "open_hours": 8, "opening": 0, "part": "p1", "receipts": 0, "sold_out_early": true, "unserved_complete": false, "unserved_known": 0}
+{"day": 3, "id": "d3", "issued": 1, "known_at": 3, "open_hours": 8, "opening": 4, "part": "p1", "receipts": 0, "sold_out_early": false, "unserved_complete": false, "unserved_known": 0}
+{"day": 4, "id": "d4", "issued": 0, "known_at": 4, "open_hours": 0, "opening": 3, "part": "p1", "receipts": 0, "sold_out_early": false, "unserved_complete": false, "unserved_known": 0}
+{"day": 5, "id": "d5", "issued": 2, "known_at": 5, "open_hours": 8, "opening": 3, "part": "p1", "receipts": 0, "sold_out_early": false, "unserved_complete": false, "unserved_known": 0}

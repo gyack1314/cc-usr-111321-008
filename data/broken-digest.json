@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "tables": {
+    "daily": {
+      "file": "normal-daily.jsonl",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "bytes": 1108,
+      "rows": 6,
+      "fields": [
+        "id",
+        "part",
+        "day",
+        "opening",
+        "issued",
+        "receipts",
+        "open_hours",
+        "sold_out_early",
+        "unserved_known",
+        "unserved_complete",
+        "known_at"
+      ]
+    },
+    "parts": {
+      "file": "normal-parts.jsonl",
+      "sha256": "b40daf996596b8f809493485f8df23cfa535f505474c28cf84240613d1ab86f0",
+      "bytes": 48,
+      "rows": 1,
+      "fields": [
+        "id",
+        "family",
+        "lead_days"
+      ]
+    },
+    "adjustments": {
+      "file": "normal-adjustments.jsonl",
+      "sha256": "8cd02e5480a83ff0109f33b91d8b337788d714ba7bf17beeb13ce639ef9f9bfe",
+      "bytes": 84,
+      "rows": 1,
+      "fields": [
+        "id",
+        "part",
+        "day",
+        "kind",
+        "quantity",
+        "known_at"
+      ]
+    }
+  }
+}
